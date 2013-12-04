@@ -5,10 +5,15 @@
 
 
 public interface DefinedConstants {
+	
+	/** URL STRINGS **/
+	public static final String MYHARVARD_URL = "https://www.pin1.harvard.edu/cas/login?service=https%3A%2F%2Fwww.pin1.harvard.edu%2Fpin%2Fauthenticate%3F__authen_application%3DHARVARD_PORTAL_NEW%26authority%3DPIN%26target%3Dhttps%253A%252F%252Flogin.icommons.harvard.edu%252Fpinproxy%252Fpinlogin%253Fproxy_requested_url%253Dhttp%25253A%25252F%25252Fmy.harvard.edu%25252Ficb%25252Ficb.do%2525253Fkeyword%25253Dmyharvard%2526_logout_callback_url%253Dhttp%25253A%25252F%25252Fmy.harvard.edu%25253A80%25252Ficb%25252Flogoutcallback.do";
+	public static final String QUIZMO2_URL = "https://www.pin1.harvard.edu/cas/login?service=https%3A%2F%2Fwww.pin1.harvard.edu%2Fpin%2Fauthenticate%3F__authen_application%3DHARVARD_PORTAL_NEW%26authority%3DPIN%26target%3Dhttps%253A%252F%252Flogin.icommons.harvard.edu%252Fpinproxy%252Fpinlogin%253Fproxy_requested_url%253Dhttp%25253A%25252F%25252Fmy.harvard.edu%25252Ficb%25252Ficb.do%2525253Fkeyword%25253Dmyharvard%2526_logout_callback_url%253Dhttp%25253A%25252F%25252Fmy.harvard.edu%25253A80%25252Ficb%25252Flogoutcallback.do";
+	
+	/** Text to test **/
 	public static final String PROBLEMATIC_CHARACTERS = "!@#$%*&^()\\|";
-	
 	public static final String MULTIBYTE_CHAR_TEXT = "このテクストは日本語で書いてあります。";
-	
+
 	public static final String GREATER_THAN_2K_CHAR_TEXT = "Start: I am longer than 2000 characters"
 			+ "123456780123456780123456780123456780123456780123456780123456780123456780123456780123456780"
 			+ "123456780123456780123456780123456780123456780123456780123456780123456780123456780123456780"		
