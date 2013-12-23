@@ -8,7 +8,7 @@ public interface DefinedConstants {
 	
 	/** URL STRINGS **/
 	public static final String MYHARVARD_URL = "https://www.pin1.harvard.edu/cas/login?service=https%3A%2F%2Fwww.pin1.harvard.edu%2Fpin%2Fauthenticate%3F__authen_application%3DHARVARD_PORTAL_NEW%26authority%3DPIN%26target%3Dhttps%253A%252F%252Flogin.icommons.harvard.edu%252Fpinproxy%252Fpinlogin%253Fproxy_requested_url%253Dhttp%25253A%25252F%25252Fmy.harvard.edu%25252Ficb%25252Ficb.do%2525253Fkeyword%25253Dmyharvard%2526_logout_callback_url%253Dhttp%25253A%25252F%25252Fmy.harvard.edu%25253A80%25252Ficb%25252Flogoutcallback.do";
-	public static final String QUIZMO2_URL = "https://www.pin1.harvard.edu/cas/login?service=https%3A%2F%2Fwww.pin1.harvard.edu%2Fpin%2Fauthenticate%3F__authen_application%3DHARVARD_PORTAL_NEW%26authority%3DPIN%26target%3Dhttps%253A%252F%252Flogin.icommons.harvard.edu%252Fpinproxy%252Fpinlogin%253Fproxy_requested_url%253Dhttp%25253A%25252F%25252Fmy.harvard.edu%25252Ficb%25252Ficb.do%2525253Fkeyword%25253Dmyharvard%2526_logout_callback_url%253Dhttp%25253A%25252F%25252Fmy.harvard.edu%25253A80%25252Ficb%25252Flogoutcallback.do";
+	public static final String QUIZMO2_URL = "https://www.pin1.harvard.edu/cas/login?service=https%3A%2F%2Fwww.pin1.harvard.edu%2Fpin%2Fauthenticate%3F__authen_application%3DHARVARD_PORTAL_NEW%26authority%3DPIN%26target%3Dhttps%253A%252F%252Flogin.icommons.harvard.edu%252Fpinproxy%252Fpinlogin%253Fproxy_requested_url%253Dhttp%25253A%25252F%25252Fisites.harvard.edu%25252Ficb%25252Ficb.do%2525253Fkeyword%25253Dk28781%252526login%25253Dyes%2526_logout_callback_url%253Dhttp%25253A%25252F%25252Fisites.harvard.edu%25253A80%25252Ficb%25252Flogoutcallback.do";
 	
 	/** Text to test **/
 	public static final String PROBLEMATIC_CHARACTERS = "!@#$%*&^()\\|";
