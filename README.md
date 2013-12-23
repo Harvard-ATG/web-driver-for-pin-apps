@@ -20,6 +20,8 @@ This code will take an XID and PIN (or an HUID and password, but be careful not 
 
 - WebDriverTest.java - This is the main class that contains the specific logic that is used to interact with the my.harvard page.  This is the class that will need to be modified (or copied and modified) to customize to test other applications. 
 
+To run from the command line with two arguments:   java WebDriverTest <xid or huid> <xid password or PIN>
+
 - WebDriverTestQuizmo.java - This is a modified version of WebDriverTest.java that has been altered to run a more complex set of tests on a web application called Quizmo. (Quizmo is a Harvard Application used by instructors to give quizes to students.) 
 
 - PinSession.java - This contains the logic to authenticate from the PIN webpage.  This can be completely reused for any PIN protected application.
