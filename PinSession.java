@@ -57,7 +57,7 @@ public class PinSession {
         	
         } else if (huidOrXid.equalsIgnoreCase("XID")){
         	
-        	sourceType = new String("compositeAuthenticationSourceType2");
+        	sourceType = new String("compositeAuthenticationSourceType4");
         }
         
         //These elements are all dependent on the HTML in the PIN login page
